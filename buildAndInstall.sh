@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-
+#!/bin/bash
 
 cd ClientFiles_C
 bash do_build.sh
