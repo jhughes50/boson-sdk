@@ -1,3 +1,4 @@
+#!/bin/bash
 gcc -v -c -fpic -o Client_Dispatcher_32.o Client_Dispatcher.c -I.
 gcc -v -c -fpic -o Client_API_32.o Client_API.c -I.
 gcc -v -c -fpic -o Client_Packager_32.o Client_Packager.c -I.
